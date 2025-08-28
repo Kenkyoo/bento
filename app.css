@@ -21,9 +21,9 @@
   --sfg: #494949; /* Sceondary Foreground color */
 
   /* Light Colors  */
-  --accent: #57a0d9; /* Hover color */
-  --background: #f5f5f5; /* Background color */
-  --cards: #e4e6e6; /* Cards color */
+  --accent: #CBA6F7; /* Hover color */
+  --background: #1E1E2E; /* Background color */
+  --cards: #11111B; /* Cards color */
 
   /* Image background  */
   --imgbg: url(assets/background.jpg); /* Image URL */
@@ -35,9 +35,9 @@
 
 .darktheme {
   /* Dark Colors  */
-  --accent: #57a0d9; /* Hover color */
-  --background: #19171a; /* Background color */
-  --cards: #201e21; /* Cards color */
+   --accent: #CBA6F7; /* Hover color */
+  --background: #1E1E2E; /* Background color */
+  --cards: #11111B; /* Cards color */
 
   /* Fonts Color */
   --fg: #d8dee9; /* Foreground color */
