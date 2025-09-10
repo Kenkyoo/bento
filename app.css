@@ -17,13 +17,13 @@
   --icon: 3vh; /* Icon Size */
 
   /* Fonts Color */
-  --fg: #CBA6F7; /* Foreground color */
-  --sfg: #494949; /* Sceondary Foreground color */
+  --fg: #313244; /* Foreground color */
+  --sfg: #bac2de; /* Sceondary Foreground color */
 
   /* Light Colors  */
-  --accent: #CDD6F4; /* Hover color */
-  --background: #1E1E2E; /* Background color */
-  --cards: #11111B; /* Cards color */
+  --accent: #181825; /* Hover color */
+  --background: #f5c2e7; /* Background color */
+  --cards: #1e1e2e; /* Cards color */
 
   /* Image background  */
   --imgbg: url(assets/background.jpg); /* Image URL */
@@ -41,7 +41,7 @@
 
   /* Light Colors  */
   --accent: #313244; /* Hover color */
-  --background: #181825; /* Background color */
+  --background: #1e1e2e; /* Background color */
   --cards: #cba6f7; /* Cards color */
 
   /* Image background  */
