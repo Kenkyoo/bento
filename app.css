@@ -40,9 +40,9 @@
   --sfg: #cdd6f4; /* Sceondary Foreground color */
 
   /* Light Colors  */
-  --accent: #cba6f7; /* Hover color */
+  --accent: #313244; /* Hover color */
   --background: #181825; /* Background color */
-  --cards: #f5c2e7; /* Cards color */
+  --cards: #cba6f7; /* Cards color */
 
   /* Image background  */
   --imgcol: linear-gradient(
