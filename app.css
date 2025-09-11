@@ -37,12 +37,12 @@
   /* Dark Colors  */
   /* Fonts Color */
   --fg: #a6e3a1; /* Foreground color */
-  --sfg: #11111b; /* Sceondary Foreground color */
+  --sfg: #cdd6f4; /* Sceondary Foreground color */
 
   /* Light Colors  */
-  --accent: #f5c2e7; /* Hover color */
+  --accent: #b4befe; /* Hover color */
   --background: #1e1e2e; /* Background color */
-  --cards: #c6a0f6; /* Cards color */
+  --cards: #89b4fa; /* Cards color */
 
   /* Image background  */
   --imgcol: linear-gradient(
